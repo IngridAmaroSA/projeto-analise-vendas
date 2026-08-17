@@ -6,7 +6,7 @@ Projeto desenvolvido para praticar análise de dados utilizando Python, Pandas e
 
 Analisar uma base fictícia de vendas para identificar informações relevantes sobre faturamento, produtos, regiões e desempenho das vendas.
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias contidas no projeto
 
 - Python
 - Pandas
